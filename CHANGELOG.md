@@ -1,5 +1,20 @@
 # CHANGELOG.md
 
+## 1.4.1 (2026-06-25)
+
+**Fix**
+
+  - Fixed the extension of the `photos.tsv` file
+
+**Lite dataset link:**
+
+  - Version link: [Version 1.4.1](https://unsplash.com/data/lite/1.4.1)
+
+**Integrity checks (SHA-256):**
+
+  - Lite: `aa0fcb859040ed64e93817d1d878d0c6f861763283261ba1a6aa5d8d4af6aec6`
+  - Full: `59c253f9eb0c743608f6d79f57ab21442f9ca214cd1452edf87f53025f25c07a`
+
 ## 1.4.0 (2026-06-12)
 
 **New:**
